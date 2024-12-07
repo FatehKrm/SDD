@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SkinAnalyse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F0795-1248-43E2-A20C-4674AE106DC9}|..\\SDD\\SDD.csproj|c:\\users\\emiru\\desktop\\web geli\u015Ftirme\\skinanalyse\\sdd\\views\\loginpage\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F0795-1248-43E2-A20C-4674AE106DC9}|..\\SDD\\SDD.csproj|c:\\users\\emiru\\desktop\\web geli\u015Ftirme\\skinanalyse\\sdd\\controllers\\displayingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F0795-1248-43E2-A20C-4674AE106DC9}|..\\SDD\\SDD.csproj|c:\\users\\emiru\\desktop\\web geli\u015Ftirme\\skinanalyse\\sdd\\controllers\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F0795-1248-43E2-A20C-4674AE106DC9}|..\\SDD\\SDD.csproj|c:\\users\\emiru\\desktop\\web geli\u015Ftirme\\skinanalyse\\sdd\\views\\homepage\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F0795-1248-43E2-A20C-4674AE106DC9}|..\\SDD\\SDD.csproj|c:\\users\\emiru\\desktop\\web geli\u015Ftirme\\skinanalyse\\sdd\\controllers\\homepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SDD\\Views\\HomePage\\Home.cshtml",
+              "RelativeDocumentMoniker": "..\\SDD\\Views\\HomePage\\Home.cshtml",
+              "ToolTip": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SDD\\Views\\HomePage\\Home.cshtml",
+              "RelativeToolTip": "..\\SDD\\Views\\HomePage\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:33:51.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePageController.cs",
+              "DocumentMoniker": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SDD\\Controllers\\HomePageController.cs",
+              "RelativeDocumentMoniker": "..\\SDD\\Controllers\\HomePageController.cs",
+              "ToolTip": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SDD\\Controllers\\HomePageController.cs",
+              "RelativeToolTip": "..\\SDD\\Controllers\\HomePageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:32:31.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayingController.cs",
+              "DocumentMoniker": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SDD\\Controllers\\DisplayingController.cs",
+              "RelativeDocumentMoniker": "..\\SDD\\Controllers\\DisplayingController.cs",
+              "ToolTip": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SDD\\Controllers\\DisplayingController.cs",
+              "RelativeToolTip": "..\\SDD\\Controllers\\DisplayingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:20:28.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SDD\\Controllers\\LoginPage.cs",
+              "RelativeDocumentMoniker": "..\\SDD\\Controllers\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SDD\\Controllers\\LoginPage.cs",
+              "RelativeToolTip": "..\\SDD\\Controllers\\LoginPage.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T22:00:30.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SDD\\Views\\LoginPage\\login.cshtml",
+              "RelativeDocumentMoniker": "..\\SDD\\Views\\LoginPage\\login.cshtml",
+              "ToolTip": "C:\\Users\\emiru\\Desktop\\Web Geli\u015Ftirme\\SkinAnalyse\\SDD\\Views\\LoginPage\\login.cshtml",
+              "RelativeToolTip": "..\\SDD\\Views\\LoginPage\\login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T21:59:33.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
